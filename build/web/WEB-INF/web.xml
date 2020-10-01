@@ -22,7 +22,7 @@
     </servlet>
     <servlet>
         <servlet-name>producto</servlet-name>
-        <servlet-class>Controladores.producto</servlet-class>
+        <servlet-class>Controladores.producto_sr</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>sr_jsp1</servlet-name>

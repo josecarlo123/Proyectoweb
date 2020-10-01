@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/web/proveedores.jsp</file>
-            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/web/Empleados.jsp</file>
-            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/web/marca.jsp</file>
+            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/src/java/Modelos/Marca.java</file>
+            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/src/java/Modelos/Productos.java</file>
             <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/web/cliente.jsp</file>
-            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/web/jsp1.jsp</file>
-            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/web/index.jsp</file>
+            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/web/producto.jsp</file>
+            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/src/java/Controladores/producto.java</file>
+            <file>file:/C:/Users/i14i34500w10/Documents/NetBeansProjects/WEB/src/java/Controladores/Proveedores_sr.java</file>
         </group>
     </open-files>
 </project-private>

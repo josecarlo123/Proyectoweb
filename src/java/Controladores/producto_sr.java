@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author i14i34500w10
  */
-public class producto extends HttpServlet {
+public class producto_sr extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -38,6 +38,8 @@ public class producto extends HttpServlet {
             out.println("<title>Servlet producto</title>");            
             out.println("</head>");
             out.println("<body>");
+            
+            
             out.println("<h1>Servlet producto at " + request.getContextPath() + "</h1>");
             out.println("</body>");
             out.println("</html>");

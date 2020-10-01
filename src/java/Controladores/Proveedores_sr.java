@@ -43,6 +43,7 @@ public class Proveedores_sr extends HttpServlet {
             
             proveedor = new Proveedores(request.getParameter("nit"),Integer.valueOf(request.getParameter("txt_idp")),request.getParameter("nombrepro"),request.getParameter("direccion"),request.getParameter("telefono"));
             proveedor.agregar();
+            
             response.sendRedirect("proveedores.jsp");
             
             out.println("</body>");
