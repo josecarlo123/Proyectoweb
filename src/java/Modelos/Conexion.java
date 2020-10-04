@@ -6,6 +6,7 @@
 package Modelos;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 /**
@@ -39,5 +40,9 @@ public class Conexion {
             System.out.println("Error: " + ex.getMessage());
         }
     
+    }
+
+    PreparedStatement prepareStatement(String insert) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
