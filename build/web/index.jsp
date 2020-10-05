@@ -80,7 +80,10 @@ li a:hover {
     <li class="nav-item">
     <a class="nav-link" href="producto.jsp">productos</a>
     </li>
-    
+      </li>
+    <li class="nav-item">
+    <a class="nav-link" href="ventas.jsp">ventas</a>
+    </li>
   </ul>
 </nav>
        

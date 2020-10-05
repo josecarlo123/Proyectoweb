@@ -103,7 +103,7 @@ public class Productos {
     }
     
     
-  
+  /*
     public void guardar_imagen(String ruta, String nombre){
         conectar = new Conexion();
         String insert = "INSERT INTO  productos (imagen) values (?)";
@@ -124,6 +124,8 @@ public class Productos {
     
     
     }
+    */
+    
     
  public int agregar(){
    int retorno = 0;
@@ -141,8 +143,8 @@ public class Productos {
             parametro.setFloat(5, getPrecio_c());
             parametro.setFloat(6, getPrecio_v());
             parametro.setInt(7,getExistencia());
-              parametro.setString(8,getFecha());
-            
+            parametro.setString(8,getFecha());
+                
             
             
             retorno = parametro.executeUpdate();
