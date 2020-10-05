@@ -61,7 +61,7 @@
         <div  >
             <form action="sr_jsp1" method="post" class="form-group">
                 <label>ID</label>
-                <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly >
+                <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
                 <label>puesto</label>
                 <input type="text" name="txt_puesto" id="txt_puesto" class="form-control" placeholder="Example: ingeniero" required >
                 <br>
