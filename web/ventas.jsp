@@ -108,23 +108,23 @@
         <div  id="hola" >
         <form action="" method="post" class="form-group" >
             <label><b> ID</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="txt_idv" id="txt_idv" value="0" class="form-control" style=" margin-right: 20px " readonly>
              <label><b>Numero de Factura {*}</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="no_fact" id="no_fact" class="form-control" style=" margin-right: 20px " required>
              <label><b>Serie</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="text_serie" id="txt_serie" class="form-control" style=" margin-right: 20px " required>
              <label><b>Fecha de Factura</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="date" name="txt_fecha" id="txt_fecha" class="form-control" style=" margin-right: 20px " required>
              <label><b>Id Cliente </b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="txt_idc" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
              <label><b>Id Empleado</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="txt_ide" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
             <label><b>Fecha de Ingreso</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="txt_idf" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
             <label><b>ID de Venta</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="txt_idv" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
             <label><b>ID de Venta</b></label>
-            <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
+            <input type="text" name="txt_idv" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
             <label><b>ID de Venta</b></label>
             <input type="text" name="txt_id" id="txt_id" value="0" class="form-control" style=" margin-right: 20px " readonly>
             <label><b>ID de Venta</b></label>
